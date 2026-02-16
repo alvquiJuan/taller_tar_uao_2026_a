@@ -1,0 +1,8 @@
+esta es el texto del primer archivo Linux es un sistema operativo de
+código abierto. Fue creado inicialmente por Linus Torvalds en 1991. Se
+basa en el núcleo Linux, conocido como kernel. Es ampliamente utilizado
+en servidores alrededor del mundo. También es popular en entornos de
+desarrollo. Existen múltiples distribuciones como Ubuntu, Debian y
+Fedora. Linux destaca por su estabilidad y seguridad. Permite una gran
+personalización del sistema. Es compatible con una amplia variedad de
+hardware. La comunidad contribuye constantemente a su mejora.

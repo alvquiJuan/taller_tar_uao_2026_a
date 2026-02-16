@@ -1,0 +1,8 @@
+este es el texto del tercer archivo Linux es fundamental en el mundo del
+software libre. Android utiliza el kernel de Linux como base. Existen
+entornos gráficos como GNOME y KDE. Puede instalarse en computadoras
+antiguas. Es ideal para programadores y administradores de sistemas. La
+seguridad se refuerza mediante permisos y roles. El sistema de archivos
+es robusto y organizado. Cuenta con soporte para redes avanzadas. Se
+adapta tanto a uso doméstico como empresarial. Su comunidad global
+brinda soporte constante.

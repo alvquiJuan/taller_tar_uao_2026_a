@@ -1,0 +1,9 @@
+este es el texto del segundo archivo El sistema operativo Linux es
+gratuito y de libre distribución. Su licencia principal es la GPL
+(General Public License). Es muy utilizado en infraestructuras
+empresariales. Muchas supercomputadoras funcionan con Linux. Ofrece
+potentes herramientas de línea de comandos. El gestor de paquetes
+facilita la instalación de software. Las actualizaciones suelen ser
+frecuentes y seguras. La arquitectura del sistema es modular. Permite
+ejecutar múltiples usuarios simultáneamente. Es reconocido por su
+rendimiento eficiente.
